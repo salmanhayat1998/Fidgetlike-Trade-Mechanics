@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1737fb59c2d3bb46a3c1bc3df9f33a0, type: 3}
+  m_Name: lolipop
+  m_EditorClassIdentifier: 
+  obj: {fileID: 7743036595604247705, guid: d9c4b53810b80bc4681324c0a1eedaa7, type: 3}
+  itemImg: {fileID: 21300000, guid: 717f1453af6e35240b64aa65bd5ea3c2, type: 3}
+  reactionImage: {fileID: 21300000, guid: 14e49d88806c7864f93552098020a056, type: 3}
+  value: -10
+  isPaid: 0
+  possibleReactionsMsgs:
+  - Matlab kuch bhii ?
+  - Is main tera ghata mera kuch nai jata
+  possibleReactionsSounds:
+  - {fileID: 8300000, guid: 6f4bf42d888c7d544a5c66c082dce22c, type: 3}
+  - {fileID: 8300000, guid: af4711fc66927c04591bb81fb413da5c, type: 3}

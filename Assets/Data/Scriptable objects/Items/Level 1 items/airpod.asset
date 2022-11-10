@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1737fb59c2d3bb46a3c1bc3df9f33a0, type: 3}
+  m_Name: airpod
+  m_EditorClassIdentifier: 
+  obj: {fileID: 9070604484306817630, guid: c6e3cdb3a38310b4c800c2173e592097, type: 3}
+  itemImg: {fileID: 0}
+  reactionImage: {fileID: 21300000, guid: 44efbf6f8ad086c448985bb610eb365a, type: 3}
+  value: 10
+  isPaid: 0
+  possibleReactionsMsgs:
+  - Ye acha tha !
+  possibleReactionsSounds:
+  - {fileID: 8300000, guid: ae56e25a6a892d548a09685f8104c35d, type: 3}

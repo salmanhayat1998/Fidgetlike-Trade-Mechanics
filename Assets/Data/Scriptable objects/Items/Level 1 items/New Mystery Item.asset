@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e11d8afc18bb37049aada358cdb1efd1, type: 3}
+  m_Name: New Mystery Item
+  m_EditorClassIdentifier: 
+  obj: {fileID: 1385155263397036411, guid: 4d976d92f881ca246ba20c10ae8b0008, type: 3}
+  itemImg: {fileID: 21300000, guid: 8cd23b410027af74dba1780b8bd8035d, type: 3}
+  reactionImage: {fileID: 0}
+  value: 0
+  isPaid: 0
+  possibleReactionsMsgs: []
+  possibleReactionsSounds: []
+  blastparticle: {fileID: 6120201877766727185, guid: c21c865b34661094e89336eb18da292f,
+    type: 3}
+  insideObjects:
+  - {fileID: 1139542468165902, guid: e70410c829b38f24585b186414dbe7ea, type: 3}
+  - {fileID: 6779123721366748761, guid: 2dd0961949feb24459532e2c562fadf4, type: 3}
+  - {fileID: 1264271199882530, guid: dda0560179c7a9b438cc12d058c5d48d, type: 3}
+  - {fileID: 7743036595604247705, guid: d9c4b53810b80bc4681324c0a1eedaa7, type: 3}
+  - {fileID: 9070604484306817630, guid: c6e3cdb3a38310b4c800c2173e592097, type: 3}
+  - {fileID: 6134618626016168234, guid: a903808ecee4e7e4eb044bd0953080ef, type: 3}

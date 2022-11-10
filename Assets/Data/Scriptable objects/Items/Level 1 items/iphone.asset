@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1737fb59c2d3bb46a3c1bc3df9f33a0, type: 3}
+  m_Name: iphone
+  m_EditorClassIdentifier: 
+  obj: {fileID: 1139542468165902, guid: e70410c829b38f24585b186414dbe7ea, type: 3}
+  itemImg: {fileID: 21300000, guid: fc55609717d73fb43b036dd6ab1b3dcf, type: 3}
+  reactionImage: {fileID: 21300000, guid: fcf811fbef8920149bb13cb60bb411ac, type: 3}
+  value: 10
+  isPaid: 0
+  possibleReactionsMsgs:
+  - Moj kradi
+  possibleReactionsSounds:
+  - {fileID: 8300000, guid: ae56e25a6a892d548a09685f8104c35d, type: 3}
+  - {fileID: 8300000, guid: 28ccae445ec2e94459c309119cc88ea3, type: 3}
